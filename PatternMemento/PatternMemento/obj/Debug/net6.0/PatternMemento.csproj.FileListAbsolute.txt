@@ -1,0 +1,12 @@
+C:\Users\rodol\source\repos\PatternMemento\PatternMemento\bin\Debug\net6.0\PatternMemento.deps.json
+C:\Users\rodol\source\repos\PatternMemento\PatternMemento\bin\Debug\net6.0\PatternMemento.dll
+C:\Users\rodol\source\repos\PatternMemento\PatternMemento\bin\Debug\net6.0\PatternMemento.pdb
+C:\Users\rodol\source\repos\PatternMemento\PatternMemento\obj\Debug\net6.0\PatternMemento.csproj.AssemblyReference.cache
+C:\Users\rodol\source\repos\PatternMemento\PatternMemento\obj\Debug\net6.0\PatternMemento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodol\source\repos\PatternMemento\PatternMemento\obj\Debug\net6.0\PatternMemento.AssemblyInfoInputs.cache
+C:\Users\rodol\source\repos\PatternMemento\PatternMemento\obj\Debug\net6.0\PatternMemento.AssemblyInfo.cs
+C:\Users\rodol\source\repos\PatternMemento\PatternMemento\obj\Debug\net6.0\PatternMemento.csproj.CoreCompileInputs.cache
+C:\Users\rodol\source\repos\PatternMemento\PatternMemento\obj\Debug\net6.0\PatternMemento.dll
+C:\Users\rodol\source\repos\PatternMemento\PatternMemento\obj\Debug\net6.0\refint\PatternMemento.dll
+C:\Users\rodol\source\repos\PatternMemento\PatternMemento\obj\Debug\net6.0\PatternMemento.pdb
+C:\Users\rodol\source\repos\PatternMemento\PatternMemento\obj\Debug\net6.0\ref\PatternMemento.dll

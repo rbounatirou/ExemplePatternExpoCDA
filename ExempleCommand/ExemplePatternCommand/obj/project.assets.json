@@ -27,26 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rbounatirou\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\rodol\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rbounatirou\\Documents\\CDA2210\\Pattern\\ExempleCommand\\ExemplePatternCommand\\ExemplePatternCommand.csproj",
+      "projectUniqueName": "D:\\GitPatternCommand\\ExempleCommand\\ExemplePatternCommand\\ExemplePatternCommand.csproj",
       "projectName": "ExemplePatternCommand",
-      "projectPath": "C:\\Users\\rbounatirou\\Documents\\CDA2210\\Pattern\\ExempleCommand\\ExemplePatternCommand\\ExemplePatternCommand.csproj",
-      "packagesPath": "C:\\Users\\rbounatirou\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rbounatirou\\Documents\\CDA2210\\Pattern\\ExempleCommand\\ExemplePatternCommand\\obj\\",
+      "projectPath": "D:\\GitPatternCommand\\ExempleCommand\\ExemplePatternCommand\\ExemplePatternCommand.csproj",
+      "packagesPath": "C:\\Users\\rodol\\.nuget\\packages\\",
+      "outputPath": "D:\\GitPatternCommand\\ExempleCommand\\ExemplePatternCommand\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\rbounatirou\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\rodol\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,8 +53,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\rbounatirou\\Documents\\CDA2210\\Pattern\\ExempleCommand\\ExempleCommand\\ExempleCommand.csproj": {
-              "projectPath": "C:\\Users\\rbounatirou\\Documents\\CDA2210\\Pattern\\ExempleCommand\\ExempleCommand\\ExempleCommand.csproj"
+            "D:\\GitPatternCommand\\ExempleCommand\\ExempleCommand\\ExempleCommand.csproj": {
+              "projectPath": "D:\\GitPatternCommand\\ExempleCommand\\ExempleCommand\\ExempleCommand.csproj"
             }
           }
         }
@@ -94,7 +87,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

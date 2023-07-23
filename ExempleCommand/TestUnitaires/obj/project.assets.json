@@ -2306,26 +2306,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rbounatirou\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\rodol\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rbounatirou\\Documents\\CDA2210\\Pattern\\ExempleCommand\\TestUnitaires\\TestUnitaires.csproj",
+      "projectUniqueName": "D:\\GitPatternCommand\\ExempleCommand\\TestUnitaires\\TestUnitaires.csproj",
       "projectName": "TestUnitaires",
-      "projectPath": "C:\\Users\\rbounatirou\\Documents\\CDA2210\\Pattern\\ExempleCommand\\TestUnitaires\\TestUnitaires.csproj",
-      "packagesPath": "C:\\Users\\rbounatirou\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rbounatirou\\Documents\\CDA2210\\Pattern\\ExempleCommand\\TestUnitaires\\obj\\",
+      "projectPath": "D:\\GitPatternCommand\\ExempleCommand\\TestUnitaires\\TestUnitaires.csproj",
+      "packagesPath": "C:\\Users\\rodol\\.nuget\\packages\\",
+      "outputPath": "D:\\GitPatternCommand\\ExempleCommand\\TestUnitaires\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\rbounatirou\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\rodol\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2339,8 +2332,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\rbounatirou\\Documents\\CDA2210\\Pattern\\ExempleCommand\\ExempleCommand\\ExempleCommand.csproj": {
-              "projectPath": "C:\\Users\\rbounatirou\\Documents\\CDA2210\\Pattern\\ExempleCommand\\ExempleCommand\\ExempleCommand.csproj"
+            "D:\\GitPatternCommand\\ExempleCommand\\ExempleCommand\\ExempleCommand.csproj": {
+              "projectPath": "D:\\GitPatternCommand\\ExempleCommand\\ExempleCommand\\ExempleCommand.csproj"
             }
           }
         }
@@ -2388,7 +2381,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

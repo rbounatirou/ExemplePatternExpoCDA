@@ -1,0 +1,15 @@
+C:\Users\rodol\source\repos\PatternMemento\CoucheMemento\bin\Debug\net6.0\CoucheMemento.deps.json
+C:\Users\rodol\source\repos\PatternMemento\CoucheMemento\bin\Debug\net6.0\CoucheMemento.dll
+C:\Users\rodol\source\repos\PatternMemento\CoucheMemento\bin\Debug\net6.0\CoucheMemento.pdb
+C:\Users\rodol\source\repos\PatternMemento\CoucheMemento\bin\Debug\net6.0\PatternMemento.dll
+C:\Users\rodol\source\repos\PatternMemento\CoucheMemento\bin\Debug\net6.0\PatternMemento.pdb
+C:\Users\rodol\source\repos\PatternMemento\CoucheMemento\obj\Debug\net6.0\CoucheMemento.csproj.AssemblyReference.cache
+C:\Users\rodol\source\repos\PatternMemento\CoucheMemento\obj\Debug\net6.0\CoucheMemento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodol\source\repos\PatternMemento\CoucheMemento\obj\Debug\net6.0\CoucheMemento.AssemblyInfoInputs.cache
+C:\Users\rodol\source\repos\PatternMemento\CoucheMemento\obj\Debug\net6.0\CoucheMemento.AssemblyInfo.cs
+C:\Users\rodol\source\repos\PatternMemento\CoucheMemento\obj\Debug\net6.0\CoucheMemento.csproj.CoreCompileInputs.cache
+C:\Users\rodol\source\repos\PatternMemento\CoucheMemento\obj\Debug\net6.0\CoucheMemento.csproj.CopyComplete
+C:\Users\rodol\source\repos\PatternMemento\CoucheMemento\obj\Debug\net6.0\CoucheMemento.dll
+C:\Users\rodol\source\repos\PatternMemento\CoucheMemento\obj\Debug\net6.0\refint\CoucheMemento.dll
+C:\Users\rodol\source\repos\PatternMemento\CoucheMemento\obj\Debug\net6.0\CoucheMemento.pdb
+C:\Users\rodol\source\repos\PatternMemento\CoucheMemento\obj\Debug\net6.0\ref\CoucheMemento.dll

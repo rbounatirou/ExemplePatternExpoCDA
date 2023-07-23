@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wiAkt+G8YY0m/JESBxA/Fzjk+NlM1OLa37NJkEtCmdZvLW2SuZG+McAMUQ0ThbsjA/TlNtuL8m2sQKRGg39Cfg==",
+  "dgSpecHash": "4uW9V4uIVSZ9eMcZhVfdt09V5blBvtgSB8fY1ZRABLlHjps9MhjXEmSWTpZe19C5n342B5qA5VoPQr8+q5Gzsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rbounatirou\\Documents\\CDA2210\\Pattern\\ExempleCommand\\ExemplePatternCommand\\ExemplePatternCommand.csproj",
+  "projectFilePath": "D:\\GitPatternCommand\\ExempleCommand\\ExemplePatternCommand\\ExemplePatternCommand.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
