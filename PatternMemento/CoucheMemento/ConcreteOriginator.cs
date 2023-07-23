@@ -7,23 +7,20 @@ using System.Threading.Tasks;
 
 namespace CoucheMemento
 {
-    public class OriginatorTransaction : IOriginator<Transaction>
+    public class ConcreteOriginator : IOriginator<Transaction>
     {
-        private Transaction obj;
-
-        public OriginatorTransaction(Transaction obj)
-        {
-            this.obj = obj;
+        private Transaction saTransaction;
+        public ConcreteOriginator(Transaction obj) {
+            saTransaction = obj;
         }
         public IMemento<Transaction> Save()
         {
-            return new MementoTransaction(this, obj);
+            return new ConcreteMemento<Transaction>(this,saTransaction);
         }
 
         public void SetState(Transaction _obj)
         {
-            obj = _obj;
+            saTransaction = _obj;
         }
-
     }
 }
