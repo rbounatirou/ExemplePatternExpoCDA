@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rodol\\source\\repos\\PatternMemento\\CoucheMemento\\CoucheMemento.csproj",
+      "projectUniqueName": "D:\\GitPatternCommand\\PatternMemento\\CoucheMemento\\CoucheMemento.csproj",
       "projectName": "CoucheMemento",
-      "projectPath": "C:\\Users\\rodol\\source\\repos\\PatternMemento\\CoucheMemento\\CoucheMemento.csproj",
+      "projectPath": "D:\\GitPatternCommand\\PatternMemento\\CoucheMemento\\CoucheMemento.csproj",
       "packagesPath": "C:\\Users\\rodol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rodol\\source\\repos\\PatternMemento\\CoucheMemento\\obj\\",
+      "outputPath": "D:\\GitPatternCommand\\PatternMemento\\CoucheMemento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rodol\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\rodol\\source\\repos\\PatternMemento\\PatternMemento\\PatternMemento.csproj": {
-              "projectPath": "C:\\Users\\rodol\\source\\repos\\PatternMemento\\PatternMemento\\PatternMemento.csproj"
+            "D:\\GitPatternCommand\\PatternMemento\\PatternMemento\\PatternMemento.csproj": {
+              "projectPath": "D:\\GitPatternCommand\\PatternMemento\\PatternMemento\\PatternMemento.csproj"
             }
           }
         }

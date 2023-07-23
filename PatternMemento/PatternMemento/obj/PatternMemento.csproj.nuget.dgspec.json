@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rodol\\source\\repos\\PatternMemento\\PatternMemento\\PatternMemento.csproj": {}
+    "D:\\GitPatternCommand\\PatternMemento\\PatternMemento\\PatternMemento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rodol\\source\\repos\\PatternMemento\\PatternMemento\\PatternMemento.csproj": {
+    "D:\\GitPatternCommand\\PatternMemento\\PatternMemento\\PatternMemento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rodol\\source\\repos\\PatternMemento\\PatternMemento\\PatternMemento.csproj",
+        "projectUniqueName": "D:\\GitPatternCommand\\PatternMemento\\PatternMemento\\PatternMemento.csproj",
         "projectName": "PatternMemento",
-        "projectPath": "C:\\Users\\rodol\\source\\repos\\PatternMemento\\PatternMemento\\PatternMemento.csproj",
+        "projectPath": "D:\\GitPatternCommand\\PatternMemento\\PatternMemento\\PatternMemento.csproj",
         "packagesPath": "C:\\Users\\rodol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rodol\\source\\repos\\PatternMemento\\PatternMemento\\obj\\",
+        "outputPath": "D:\\GitPatternCommand\\PatternMemento\\PatternMemento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rodol\\AppData\\Roaming\\NuGet\\NuGet.Config",
